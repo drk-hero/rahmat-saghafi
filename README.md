@@ -11,10 +11,10 @@
  <img src="https://img.icons8.com/color/48/null/linkedin.png" alt="telegram" width="40" height="40"/>
 </a> 
 <a href="https://instagram.com/saghafi-rahmat" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/instagram/instagram-icon.svg" alt="telegram" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/null/instagram-new--v1.png" alt="telegram" width="40" height="40"/>
 </a> 
 <a href="https://github.com/drk-hero/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-icon.svg" alt="telegram" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/null/github--v1.png" alt="telegram" width="40" height="40"/>
 </a> 
 </p>
 🕵️‍♂️ About Me
